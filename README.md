@@ -19,7 +19,7 @@ vscodium --install-extension ./gdscript-import-1.0.0.vsix
 
 I want non-global classes to be present in the autocomplete even though they are not preloaded yet.
 
---
+---
 
 Vibecode disclosure: I authored like 4 lines of code total here.
 
